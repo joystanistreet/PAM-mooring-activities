@@ -1,0 +1,20 @@
+Site,Mooring,Latitude,Longitude,Depth,Activity,ProjectCode,Project,Contact
+ROBV,Recover M2226,42.9095,-65.3141,154,Recovery,pam,Team Whale PAM,A. Vanderlaan
+ROB23,Deploy M2257,42.8496,-65.3137,200,Deployment,pam,Team Whale PAM,A. Vanderlaan
+GMB,Recover M2227; Deploy M2256,44.6923,-66.5314,180,Recovery & Deployment,pam,Team Whale PAM,A. Vanderlaan
+CCU,Recover M2234,41.3448,-66.1516,800,Recovery,pam,Team Whale PAM,J. Stanistreet
+FCD,Recover M2230,41.5123,-65.3705,2491,Recovery,pam,Team Whale PAM,J. Stanistreet
+MGE,Recover M2231,43.8394,-58.8227,1002,Recovery,pam,Team Whale PAM,J. Stanistreet
+GDSE,Recover M2232,43.7126,-58.725,2529,Recovery,pam,Team Whale PAM,J. Stanistreet
+ELC,Recover M2229,44.7362,-55.9221,1495,Recovery,pam,Team Whale PAM,J. Stanistreet
+SABW,Recover M2233,45.9753,-59.4224,70,Recovery,pam,Team Whale PAM,J. Stanistreet
+CBN,Recover M2220; Deploy M2250,47.162,-60.393,172,Recovery & Deployment,pam,Team Whale PAM,A. Vanderlaan
+CSW,Recover M2221; Deploy M2251,47.379,-60.299,143,Recovery & Deployment,pam,Team Whale PAM,A. Vanderlaan
+CS1,Recover M2222; Deploy M2252,47.4344,-60.0532,435,Recovery & Deployment,pam,Team Whale PAM,A. Vanderlaan
+CS2,Recover M2223; Deploy M2253,47.48979,-59.8072,492,Recovery & Deployment,pam,Team Whale PAM,A. Vanderlaan
+CS3,Recover M2224; Deploy M2254,47.54519,-59.5609,463,Recovery & Deployment,pam,Team Whale PAM,A. Vanderlaan
+CSE,Recover M2225; Deploy M2255,47.59,-59.312,156,Recovery & Deployment,pam,Team Whale PAM,A. Vanderlaan
+MGL,Deploy M2258,43.8622,-58.91,1360,Deployment,pam,Team Whale PAM,J. Stanistreet
+FCM,Deploy M2260,41.7696,-65.5756,1432,Deployment,pam,Team Whale PAM,J. Stanistreet
+MBK,Deploy M2259,45.1432,-59.7151,113,Deployment,pam,Team Whale PAM,J. Stanistreet
+MLC,Deploy M2262,45.438,-57.829,200,Deployment,pam,Team Whale PAM,J. Stanistreet
